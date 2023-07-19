@@ -1,0 +1,14 @@
+.p1 {
+    font-size:large;
+    font-style: italic;
+    margin: 20px;
+}
+.p2 {
+    font-size: medium;
+    font-style: normal;
+    margin: 20px;
+}
+.c {
+    color: blue;
+    text-align: center;
+}
