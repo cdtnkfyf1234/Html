@@ -1,0 +1,43 @@
+* {
+    margin: auto;
+}
+.container {
+    width: 800px;
+    height: 500px;
+    border: 20px solid grey;
+    background-color: aqua;
+    margin-top: 20px;
+    display: block;
+    justify-content:space-around;
+    align-items:normal;
+    margin: 10px;
+    text-align:start;
+
+}
+.container-inner {
+    border: 1px solid black;
+    height: 85px;
+    width: 780px;
+    margin: 10px;
+    background-color: bisque;
+}
+.s1 {
+    /* background-color: blanchedalmond; */
+    font-size: 30px;
+    text-align:start;
+    align-items:flex-start;
+    margin-top: 20px;
+   
+
+}
+/* .c1 {
+    background-color: blanchedalmond;
+
+}
+.c2 {
+    background-color: beige;
+} */
+.letter {
+    color: brown;
+
+}
