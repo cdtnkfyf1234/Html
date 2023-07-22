@@ -1,0 +1,25 @@
+.c1 {
+    text-decoration: center;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 200px;
+
+}
+body {
+    background-color: bisque;
+    /* height: 1000px;
+    width: 800px; */
+    font-size: larger;
+}
+.c2 {
+    font-size:x-large;
+    margin-left: 50px;
+}
+.c3 {
+    font-style:normal;
+    font-size: xx-large;
+    margin-left: 20px;
+    margin-top: 10px;
+}
