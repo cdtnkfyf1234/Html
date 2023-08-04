@@ -1,0 +1,67 @@
+.title {
+    margin-top: 40px;
+    margin-left: 250px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-size:xx-large;
+}
+.Japan {
+    height: 500px;
+    width: 800px;
+    border: 2px solid grey;
+    margin-top: 20px;
+    margin-left: 250px;
+    position: absolute;
+}
+.circle {
+    height: 300px;
+    width: 300px;
+    margin: 100px 250px 100px 250px;
+    border: 1px solid grey;
+    border-radius: 100% ;
+    background-color: red;
+    z-index: auto;
+}
+@media(max-width:1200px) {
+    .title {
+        font-size: x-large;
+    }
+    .Japan {
+        width: 1000px;
+    }
+    .circle {
+        width: 500px;
+    }
+}
+@media(max-width:980px) {
+    .title {
+        font-size: larger;
+    }
+    .Japan {
+        width: 800px;
+    }
+    .circle {
+        width: 300px;
+    }
+    
+}
+@media(max-width:768px) {
+    .title {
+        font-size: large;
+    }
+    .Japan {
+        width: 500px;
+    }
+    .circle {
+        width: 200px;
+    }
+}
+@media(max-width:480px) {
+    .Japan {
+        width: 200px;
+    }
+    .circle {
+        width: 100px;
+    }
+}
