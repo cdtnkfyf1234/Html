@@ -48,17 +48,33 @@ form {
    .c5 {
     background-color: greenyellow;
    }
+   .c5:hover {
+    background-color: aqua;
+
+   }
    .c6 {
     background-color:green;
+   }
+   .c6:hover {
+    background-color:gold ;
    }
    .c7 {
     background-color: brown;
    }
+   .c7:hover {
+    background-color: blueviolet;
+   }
    .c8 {
     background-color: red;
    }
+   .c8:hover {
+    background-color:ghostwhite ;
+   }
    .c9 {
     background-color: gray;
+   }
+   .c9:hover {
+    background-color: goldenrod;
    }
    .c {
     border: 1px solid grey;
