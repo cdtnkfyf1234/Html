@@ -21,3 +21,50 @@
 .c4 {
     margin-bottom: 30px;
 }
+@media (max-widtp:1200px) {
+    .c1 {
+        width: 500px;
+        margin-left: 300px;
+    }
+    .c2{
+        width: 200px;
+    }
+    .c3 {
+        margin-left: 20px;
+    }
+
+}
+@media (max-width: 980px) {
+    .c1 {
+        width: 500px;
+        margin-left: 250px;
+    }
+    .c2 {
+        width: 150px;
+    }
+    .c3 {
+        margin-left: 20px;
+    }
+}
+@media (max-width:768px) {
+    .c1 {
+        width: 400px;
+        margin-left: 200px;
+    }
+    .c2 {
+        width: 150px;
+    }
+    .c3 {
+        margin-left: 20px;
+    }
+
+}
+@media (max-width: 480px) {
+    .c1 {
+        width: 300px;
+        margin-left: 150px;
+    }
+    .c2 {
+        width: 100px;
+    }
+}

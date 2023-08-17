@@ -83,3 +83,49 @@ form {
     width: 300px;
    margin-bottom: 20px;
    }
+   @media (max-width: 1200px) {
+    .c1 {
+        width: 600px;
+        margin-left: 300px;
+    }
+   }
+   @media (max-width: 980px) {
+    .c1 {
+        width: 500px;
+        margin-left: 200px; ;
+    }
+   }
+   @media (max-width: 768px) {
+    .c1 {
+        width: 450px;
+        margin-left:150px ;
+    }
+    .c10 {
+        margin-left: 20px;
+    }
+    .c {
+        margin-left: 20px;
+    }
+    .c2 {
+        margin-left: 20px;
+    }
+    .c3 {
+        margin-left: 20px;
+    }
+    .c4 {
+        margin-left: 20px;
+    }
+
+    }
+    @media (max-width:480px) {
+        .c1 {
+            width: 300px;
+            margin-left: 50px;
+        }
+        .c {
+            width: 200px;
+            height: 50px;
+        }
+    }
+    
+  
